@@ -104,7 +104,7 @@
 
 \subsection{Working while studying}
 
-\cventry{6/2014--8/2014}{CERN OpenLab Summer Student}{\newline{\textsc{CERN}}}{Geneva}{Switzerland}{Attended high quality lectures about computing. Implementation of a new tool, Oracle GoldenGate Veridata, for data consistency in WLCG distributed database environment. I was responsible for the data consistency check between some specific Oracle Databases in Cern and 4 more data centers worldwide (UK, USA, France, Canada). For more information please \href{http://openlab.web.cern.ch/publications/technical_documents/investigation-oracle-goldengate-veridata-data-consistency-wlcg}{\textbf{click here}}\newline{}}
+\cventry{6/2014--8/2014}{CERN OpenLab Summer Student}{\newline{\textsc{CERN}}}{Geneva}{Switzerland}{Attended high quality lectures about computing. Implementation of a new tool, Oracle GoldenGate Veridata, for data consistency in WLCG distributed database environment. I was responsible for the data consistency check between some specific Oracle Databases in CERN and 4 more data centers worldwide (UK, USA, France, Canada). For more information please \href{http://openlab.web.CERN.ch/publications/technical_documents/investigation-oracle-goldengate-veridata-data-consistency-wlcg}{\textbf{click here}}\newline{}}
 
 %------------------------------------------------
 
@@ -132,9 +132,9 @@
 %----------------------------------------------------------------------------------------
 
 \section{Communication Skills}
-\cvitem{}{Working as a technician for the past years and being at Cern as an OpenLab student, I have developed great communication skills. Due to everyday interaction with various people, I consider having developed very good contact skills. Moreover as an undergraduate student I have taken part to many group projects that helped me develop teamwork spirit. Finally, during my internship I had the opportunity to give 2 oral presentation about my project: \newline{}}
-\cventry{}{Oral Presentation at the IT-DB department of Cern}{}{}{}{\textit{"Investigation on Oracle GoldenGate Veridata for Data Consistency in WLCG Distributed Database Environment"}}
-\cventry{}{Lightning talk in IT group of Cern}{}{}{}{\textit{"Veridata for Data Consistency in WLCG"}}
+\cvitem{}{Working as a technician for the past years and being at CERN as an OpenLab student, I have developed great communication skills. Due to everyday interaction with various people, I consider having developed very good contact skills. Moreover as an undergraduate student I have taken part to many group projects that helped me develop teamwork spirit. Finally, during my internship I had the opportunity to give 2 oral presentation about my project: \newline{}}
+\cventry{}{Oral Presentation at the IT-DB department of CERN}{}{}{}{\textit{"Investigation on Oracle GoldenGate Veridata for Data Consistency in WLCG Distributed Database Environment"}}
+\cventry{}{Lightning talk in IT group of CERN}{}{}{}{\textit{"Veridata for Data Consistency in WLCG"}}
 
 \section{Organisational Skills}
 \cvitem{}{As an undergraduate student that concurrently works, I believe that I have gained good organizational skills. I managed to organize my daily schedule in order to be able to work, attend to every lecture at University and take part to various activities and projects.}
@@ -158,7 +158,7 @@
 %\renewcommand{\listitemsymbol}{~} % Changes the symbol used for lists
 %\cvlistdoubleitem{Cooking}{Dancing}
 %\cvlistitem{Running}
-%\cvlistitem{\href{http://openlab.web.cern.ch/publications/technical_documents/investigation-oracle-goldengate-veridata-data-consistency-wlcg}{\textbf{Github}}}
+%\cvlistitem{\href{http://openlab.web.CERN.ch/publications/technical_documents/investigation-oracle-goldengate-veridata-data-consistency-wlcg}{\textbf{Github}}}
 
 %----------------------------------------------------------------------------------------
 
